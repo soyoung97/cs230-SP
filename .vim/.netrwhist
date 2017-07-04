@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/cs20160413/malloclab-handout'
+let g:netrw_dirhist_2='/home/cs20160413/shlab-handout'
+let g:netrw_dirhist_3='/home/cs20160413/proxylab-handout/tiny'
+let g:netrw_dirhist_4='/home/cs20160413/shlab-handout'
+let g:netrw_dirhist_5='/home/cs20160413'
+let g:netrw_dirhist_6='/home'
+let g:netrw_dirhist_7='/'
+let g:netrw_dirhist_8='/home/cs20160413/proxylab-handout'
